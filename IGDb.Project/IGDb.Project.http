@@ -1,0 +1,6 @@
+@IGDb.Project_HostAddress = http://localhost:5164
+
+GET {{IGDb.Project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
